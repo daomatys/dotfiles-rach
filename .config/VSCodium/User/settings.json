@@ -1,0 +1,21 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "php.validate.executablePath": "",
+    "files.associations": {
+        "*.vue": "vue"
+    },
+    "editor.fontFamily": "'Iosevka'",
+    "editor.tabSize": 2,
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "vue"
+    ]
+}

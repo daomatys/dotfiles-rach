@@ -1,0 +1,17 @@
+{
+  "modules": [
+    "break",
+    "title",
+    "separator",
+    "host",
+    "kernel",
+    "packages",
+    "uptime",
+    "break",
+    "cpu",
+    "display",
+    "disk",
+    "break",
+    "colors"
+  ]
+}

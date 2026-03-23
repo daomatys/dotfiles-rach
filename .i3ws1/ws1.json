@@ -20,7 +20,7 @@
             },
             "marks": [],
             "name": "fastfetch.zsh",
-            "percent": 0.403841229193342,
+            "percent": 0.4,
             "swallows": [
                {
                   "class": "^UXTerm$",
@@ -43,7 +43,7 @@
             },
             "marks": [],
             "name": "htop",
-            "percent": 0.596158770806658,
+            "percent": 0.6,
             "swallows": [
                {
                   "class": "^UXTerm$",
@@ -68,7 +68,7 @@
        "y": 0
     },
     "marks": [],
-    "name": "i3-save-tree --workspace 1:title > ~/.i3-my/workspace-title.json",
+    "name": "home",
     "percent": 0.6,
     "swallows": [
        {
@@ -79,4 +79,3 @@
     ],
     "type": "con"
 }
-
